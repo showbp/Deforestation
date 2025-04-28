@@ -1,8 +1,0 @@
-software/amazon/flink/example/model/InputData.class
-software/amazon/flink/example/operator/InputDataMapper.class
-software/amazon/flink/example/operator/RandomCutForestOperator.class
-software/amazon/flink/example/operator/ResultMapper.class
-software/amazon/flink/example/DataSerializationSchema.class
-software/amazon/flink/example/FlinkStreamingJob.class
-software/amazon/flink/example/model/OutputData.class
-software/amazon/flink/example/operator/RandomCutForestOperatorBuilder.class
