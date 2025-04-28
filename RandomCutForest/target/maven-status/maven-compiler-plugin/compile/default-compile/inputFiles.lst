@@ -1,0 +1,8 @@
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/operator/InputDataMapper.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/operator/RandomCutForestOperator.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/model/InputData.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/DataSerializationSchema.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/operator/RandomCutForestOperatorBuilder.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/model/OutputData.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/FlinkStreamingJob.java
+/home/ec2-user/amazon-kinesis-data-analytics-examples/AnomalyDetection/RandomCutForest/src/main/java/software/amazon/flink/example/operator/ResultMapper.java
